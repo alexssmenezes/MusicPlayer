@@ -43,7 +43,7 @@ const music_list = [
         img : 'imagens/SaveaPrayer.jpg',
         name : 'Save a Prayer',
         artist : 'Duran Duran',
-        music : 'music/SaveaPrayer.mp3'
+        music : 'musicas/SaveaPrayer.mp3'
     }
 ];
 
